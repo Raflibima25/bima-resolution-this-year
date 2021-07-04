@@ -3,3 +3,4 @@ Resolusi 2021
 - belajar html
 - belajar css
 - belajar javascript
+- belajar android studio (java)
